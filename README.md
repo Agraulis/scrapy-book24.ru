@@ -1,2 +1,2 @@
-# scrapy-book24.ru
-book24.ru parsing with scrapy
+# scrapy-labirint.ru
+labirint.ru parsing with scrapy
